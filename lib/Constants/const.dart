@@ -1,3 +1,4 @@
 import 'dart:ui';
 
-Color kprimarycolor=Color(0xFF62FCD7);
+const kprimarycolor=Color(0xFF62FCD7);
+const knotebox= "note boxes";
